@@ -1,0 +1,1 @@
+[{"operationName":"LogExperimentExposure","variables":{"input":{"experimentId":"enable_exposure_imbalance_dummy_test"}},"query":"mutation LogExperimentExposure($input: LogExperimentExposureInput!) {\n  logExperimentExposure(input: $input) {\n    success\n    __typename\n  }\n}\n"}]
