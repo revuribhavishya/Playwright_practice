@@ -1,0 +1,1 @@
+{"requests":[{"indexName":"medium_post","params":"query=playwright &hitsPerPage=8&numericFilters=&clickAnalytics=true&analyticsTags=web-typeahead,logged-out&facetFilters=authorId:686e816cf89e&attributesToRetrieve=title,postId,latestPublishedAt"}]}
