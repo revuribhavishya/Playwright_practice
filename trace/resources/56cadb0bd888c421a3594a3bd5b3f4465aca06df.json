@@ -1,1 +1,0 @@
-[{"data":{"userResult":{"__typename":"User","id":"686e816cf89e","viewerEdge":{"id":"userId:686e816cf89e-viewerId:lo_077922945330","catalogsConnection":{"__typename":"CatalogsConnection","catalogs":[],"paging":{"__typename":"CatalogPagingResult","nextPageCursor":null}},"__typename":"UserViewerEdge"}},"readingList":{"__typename":"Forbidden"}}}]
